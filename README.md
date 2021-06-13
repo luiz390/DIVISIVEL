@@ -1,0 +1,2 @@
+# DIVISIVEL
+numero divisivel
